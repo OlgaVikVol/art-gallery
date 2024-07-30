@@ -15,7 +15,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/art-gallery.git
+    git clone https://github.com/OlgaVikVol/art-gallery.git
     ```
 
 2. Change to the project directory:
